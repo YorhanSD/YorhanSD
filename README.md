@@ -5,6 +5,7 @@ Desenvolvedor em formação, interessado em desenvolvimento de software, intelig
 ## 🌐 Minhas redes
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yorhan-david-8a4a20210/)
+![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/ydavid.08/)
 
 ## 🛠️ Minha Stack
 
