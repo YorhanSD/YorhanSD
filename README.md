@@ -21,9 +21,7 @@ Desenvolvedor em formação, interessado em desenvolvimento de software, intelig
 
 ## 📊 Estatísticas no GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=YorhanSD&show_icons=true&theme=radical)
-
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=YorhanSD&layout=compact&theme=radical)
+![Estatísticas](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YorhanSD&theme=radical)
 
 ---
 
