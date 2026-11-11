@@ -1,18 +1,33 @@
-<h1>Olá eu sou o Yorhan ⚡</h1>
+# Olá, eu sou o Yorhan! ⚡
 
-<h3>Minhas redes</h3>
+Desenvolvedor em formação, interessado em desenvolvimento de software, inteligência artificial e análise de dados. Gosto de transformar conhecimentos em projetos práticos e explorar novas tecnologias.
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yorhan-david-8a4a20210/)
+## 🌐 Minhas redes
 
-![YSD Status](https://github-readme-stats.vercel.app/api?username=YorhanSD&show_icons=true&theme=dracula)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yorhan-david-8a4a20210/)
 
-### Tecnologias que mais uso
+## 🛠️ Tecnologias e ferramentas
 
-![](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+</p>
 
-[![YSD Status](https://github-readme-stats.vercel.app/api/top-langs/?username=YorhanSD&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+## 📊 Estatísticas do GitHub
 
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YorhanSD&show_icons=true&theme=dracula&include_all_commits=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YorhanSD&layout=compact&theme=dracula&hide_border=true&langs_count=8" />
+</p>
+
+---
+
+<p align="center">
+  Obrigado pela visita! 🚀
+</p>
