@@ -19,11 +19,15 @@ Desenvolvedor em formação, interessado em desenvolvimento de software, intelig
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
 </p>
 
-## 📊 Estatísticas do GitHub
+<!-- Card de Estatísticas do GitHub -->
 
 <p align="center">
-  <img height="180em" src="./profile/stats.svg" />
-  <img height="180em" src="./profile/top-langs.svg" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YorhanSD&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de YorhanSD" />
+</p>
+
+<!-- Card de Linguagens Mais Usadas -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YorhanSD&layout=compact&theme=radical" alt="Linguagens mais usadas por YorhanSD" />
 </p>
 
 ---
