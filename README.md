@@ -22,8 +22,8 @@ Desenvolvedor em formação, interessado em desenvolvimento de software, intelig
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YorhanSD&show_icons=true&theme=dracula&include_all_commits=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YorhanSD&layout=compact&theme=dracula&hide_border=true&langs_count=8" />
+  <img height="180em" src="./profile/stats.svg" />
+  <img height="180em" src="./profile/top-langs.svg" />
 </p>
 
 ---
